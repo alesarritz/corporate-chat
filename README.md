@@ -1,5 +1,5 @@
 <h1>
-<img src="https://github.com/alesarritz/corporate-chat/blob/fbe657506907cb7f68755a5958647cf4f722c5f2/logo.png" alt="appIcon" width=80 align="center"/>
+<img src="https://github.com/alesarritz/corporate-chat/blob/fbe657506907cb7f68755a5958647cf4f722c5f2/logo.png" alt="appIcon" width=60 align="center"/>
 &ensp;Corporate Chat</h1>
 
 </br>
