@@ -1,5 +1,5 @@
 <h1>
-<img src="logo.png" alt="appIcon" width=50 align="center"/>
+<img src="https://github.com/alesarritz/corporate-chat/blob/fbe657506907cb7f68755a5958647cf4f722c5f2/logo.png" alt="appIcon" width=80 align="center"/>
 &ensp;Corporate Chat</h1>
 
 </br>
@@ -18,8 +18,8 @@ Flutter Development Bootcamp</a>.
   <th width="250px"><h3> MY RESULT </h3> </th>
  </tr>
   <tr>
-  <td width="250px" padding="10px"><img src="original_result.gif" alt="OriginalResult"/> </td>
-  <td width="250px" padding="10px"><img src="my_result.gif" alt="MyResult"/></td>
+  <td width="250px" padding="10px"><img src="https://github.com/alesarritz/corporate-chat/blob/fbe657506907cb7f68755a5958647cf4f722c5f2/original_result.gif" alt="OriginalResult"/> </td>
+  <td width="250px" padding="10px"><img src="https://github.com/alesarritz/corporate-chat/blob/fbe657506907cb7f68755a5958647cf4f722c5f2/my_result.gif" alt="MyResult"/></td>
   </tr>
 </table>
 
@@ -34,7 +34,7 @@ Furthermore, the use of a Corporate Chat app could help the entire team to focus
 
 I performed two main changes: <b>design modification</b> and <b>insertion of message delivery time</b>.
 
-###Main features implemented developing the Corporate Chat project:
+### Main features implemented developing the Corporate Chat project:
 - Firebase incorporation (*Firebase Cloud Firestore*, *Firebase authentication package*)
 - Animation implementation (*Flutter Hero widget*, *animation controller*)
 - Streams
